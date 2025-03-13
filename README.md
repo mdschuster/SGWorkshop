@@ -1,6 +1,6 @@
 # Unity Shader Graph Workshop
 
-This repository contains the Unity project and workshop slides for a three part series on Unity Shader Graph.
+This repository contains the Unity project and workshop slides for the ACM VR Jam 2025.
 
 ![Example shaders created during the workshop](example.png "Example shader usage")
 
