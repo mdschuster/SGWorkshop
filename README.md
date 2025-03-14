@@ -6,8 +6,8 @@ This repository contains the Unity project and workshop slides for the ACM VR Ja
 
 ## Introduction 
 The workshop contains two parts:
-*An introductory swirly portal effect applied to the interior of a stargate mesh.
-*Creating a RIME inspired stylized fire based on the presentation by Simon Trümpler ([link](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2018/stylized-vfx-in-rime)).
+* An introductory swirly portal effect applied to the interior of a stargate mesh.
+* Creating a RIME inspired stylized fire based on the presentation by Simon Trümpler ([link](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2018/stylized-vfx-in-rime)).
 
 The project uses Unity 6 (6000.0.32f) with the Universal Render Pipeline. The `Portal` and `Fire` scenes are the intended entry point and contain starter objects for working with the shader graphs, a directional light, and minimal post-processing (Bloom and Tonemapping).
 The `Finished` scene contains both finished effects and several 3D models to demonstrate their usage.
